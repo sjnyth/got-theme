@@ -1,48 +1,54 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Game of Thrones API: Recycler View
+# AND101 Project 7 - Game of Thrones App Part 3: Beautified
 
 Submitted by: **Saujanya Thapaliya**
 
-Time spent: **2** hours spent in total
+Time spent: **X** hours spent in total
 
 ## Summary
 
-**Game of Thrones Character Viewer** is an android app that **generates a random character from Thrones API**
+**Game of Thrones** is an android app that **that displays a scrollable list of characters from the the Thrones API")**
 
-If I had to describe this project in three (3) emojis, they would be: **🗡🩸🔥**
+If I had to describe this project in three (3) emojis, they would be: **🔥⭐️👑**
 
 ## Application Features
 
 <!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
-- [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Implement a RecyclerView to display a list of entries from the API
-- [x] Display at least three (3) pieces of data for each RecyclerView item
-      
+
+- [x] App contains a RecyclerView that displays a list of scrollable data
+- [x] App displays at least two (2) pieces of data for each RecyclerView item
+- [x] Use a downloadable font with custom color and size --> Game of Thrones font
+- [x] Modify the theme of the app in `themes.xml`
+- [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
+
 The following STRETCH features are implemented:
 
-- [ ] Add a UI element for the user to interact with API further
-- [ ] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
+- [ ] Update the night theme to use different versions of styles when in dark mode
+- [ ] Use different drawables when in dark mode
 
+The following EXTRA features are implemented:
 
-## API Choice
-
-My chosen API for this project is **ThronesAPI**.
+- [ ] List anything else that you added to improve the app!
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src="https://github.com/sjnyth/recycler_view_kotlin/blob/main/gif%20(1).gif" height="600" alt="Gif of App">
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **EZ Converter**
+GIF created with **your chosen GIF tool**
+
+<!-- Recommended tools:
+- [Kap](https://getkap.co/) for macOS
+- [ScreenToGif](https://www.screentogif.com/) for Windows
+- [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-I learned about integrating with APIs with recycler view.
+Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
 

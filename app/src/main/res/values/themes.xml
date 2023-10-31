@@ -3,6 +3,11 @@
     <style name="Base.Theme.Got_api" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/red</item>
+        <item name="colorOnPrimary">@color/gold</item>
+        <item name="actionBarStyle">@color/red</item>
+        <item name="android:windowBackground">@color/black</item>
     </style>
 
     <style name="Theme.Got_api" parent="Base.Theme.Got_api" />

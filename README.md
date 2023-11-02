@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src="https://github.com/sjnyth/got-theme/blob/main/gif%20(1).gif" height="600" alt="Gif of App">
+<img src="https://github.com/sjnyth/got-theme/blob/main/got_theme.gif" height="600" alt="Gif of App">
 
 GIF created with **your chosen GIF tool**
 

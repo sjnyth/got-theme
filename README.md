@@ -2,8 +2,6 @@
 
 # AND101 Project 7 - Game of Thrones App Part 3: Beautified
 
-Submitted by: **Saujanya Thapaliya**
-
 Time spent: **1** hours spent in total
 
 ## Summary
